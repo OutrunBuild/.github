@@ -22,7 +22,7 @@ Outswap's first version, known as **Outrun AMM**, is built on Uniswap v2 and inc
 
 + **New Fee Tiers**: All Uniswap v2 pools have a fixed swap fee of 0.3%, which results in a lack of flexibility for LPs (liquidity providers) who cannot seek different fee structures based on the assets they provide to the exchange. Outrun AMM will introduce new fee tiers for pool creators, allowing them to build different trading pools for various types of assets when launching pools on Outrun AMM.
 
-+ **On-chain Referral Bonus Engine**: Outrun AMM is currently the only automated market maker on the market integrated with a referral bonus engine. We have redesigned the underlying code and opened the referral bonus engine to everyone, thereby increasing the composability of the protocol. The rewards for the referral bonus come from the protocol fees and do not harm the interests of LPs. At the same time, this attracts more transactions, bringing higher income to LPs.
++ **On-chain Referral Commission Engine**: Outrun AMM is currently the only automated market maker on the market integrated with a referral commission engine. We have redesigned the underlying code and opened the referral commission engine to everyone, thereby increasing the composability of the protocol. The rewards for the referral commission come from the protocol fees and do not harm the interests of LPs. At the same time, this attracts more transactions, bringing higher income to LPs.
 
 ## FFLaunch
 
