@@ -11,7 +11,7 @@ Outstake is a protocol built around native yield tokens, currently supporting th
 
 + **Native Yield Stablecoin (also a YT)**: The value of the Native Yield Stablecoin is directly linked to native yield rates. The economic model built around it provides stakers with higher income and multiple revenue streams. It is highly composable, allowing developers to create new products around it, thereby enriching the Outrun ecosystem.
 
-+ **Position NFT**: This NFT represents the lock-time expiration redemption rights of the native yield token, through which the right to obtain a fixed interest rate can be traded without trading the PT itself.
++ **Position Options**: This options represents the lock-time expiration redemption rights of the native yield token, through which the right to obtain a fixed interest rate can be traded without trading the PT itself.
 
 ## Outswap
 Outswap's first version, known as **Outrun AMM**, is built on classic AMM and includes several innovative improvements. The main features are as follows:
