@@ -2,7 +2,7 @@
 
 **Outrun** is a leading **DeFi** solution, dedicated to pioneering the next generation of decentralized finance and the Web3 industry, empowering users with control over their assets. Currently, Outrun ecosystem consists of four modules: **Outstake**, **Outswap**, **FFLaunch** and **Memeverse**.
 
-**Detailed documentation**: https://outrundao.gitbook.io/outrun
+**Detailed documentation**: https://outrun.gitbook.io/doc
 
 ## Outstake 
 Outstake is a protocol built entirely around native yield tokens, introducing a new type of non-USD stablecoin model that is tied to the native yield rate. This protocol employs an innovative economic model that, compared to other yield token protocols in the market (such as Pendle), offers greater flexibility and composability, providing higher returns and multiple sources of income. The assets supported by Outstake form the foundational support for the Outrun ecosystem, offering a stable base for the entire ecosystem. Specifically, the working principles of Outstake are as follows:
