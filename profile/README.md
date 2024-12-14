@@ -1,6 +1,6 @@
 # Outrun Brief Introduction
 
-**Outrun** is a leading **DeFi** solution, dedicated to pioneering the next generation of decentralized finance and the Web3 industry, empowering users with control over their assets. Currently, Outrun ecosystem consists of four modules: **Outstake**, **Outswap**, **FFLaunch** and **Memeverse**.
+**Outrun** is committed to becoming a **pioneer** in the next-generation **DeFi** and **Web3** industries. Currently, it consists of four modules: **OutStake**, **OutSwap**, **FFLaunch** and **Memeverse**. It encompasses **yield tokenization**, **liquid staking derivatives**, **decentralized exchanges**, **next-generation token financing paradigm** and **Memecoin Staking**.
 
 **Detailed documentation**: https://outrun.gitbook.io/doc
 
