@@ -1,6 +1,6 @@
 # Outrun Brief Introduction
 
-**Outrun** is committed to becoming a **pioneer** in the next-generation **DeFi** and **Web3** industries. Currently, it consists of four modules: **OutStake**, **OutSwap**, **FFLaunch** and **Memeverse**. It encompasses **yield tokenization**, **liquid staking derivatives**, **decentralized exchanges**, **next-generation token financing paradigm** and **MemeFi(DAO)**.
+Outrun is committed to becoming a pioneer in the next generation of DeFi and Web3 industries. **Through innovative yield tokenization, fair launch models, and sustainable Memecoin development, it aims to unlock higher, more flexible, and safer DeFi yields and Memecoin participation opportunities for users**. The Outrun ecosystem currently consists of four major modules: OutStake, OutSwap, FFLaunch, and Memeverse, covering **yield tokenization**, **liquid staking derivatives**, **decentralized exchanges**, **next-generation token financing paradigms**, and **the integration of Memecoin × DeFi × DAO‌**.
 
 **Detailed documentation**: https://outrun.gitbook.io/doc
 
@@ -62,4 +62,4 @@ Currently, there are many Memecoins launch methods in the market, but these meth
 
 In summary, Memeverse provides **innovative issuance methods, staking reward mechanisms, economic support measures, decentralized governance** **and community-driven forces**, offering new perspectives and solutions for Memecoin development. These advantages not only help enhance the market competitiveness of Memecoins, but also drive the entire industry towards greater **transparency**, **security**, and **sustainability**.
 
-These products are not independent of each other, they complement and closely intertwine in functionality, linking **yield tokenization**, **liquid staking derivatives**, **decentralized exchanges**, **next-generation token financing paradigm** and **MemeFi(DAO)**. Through their design and **interoperability**, they construct a **complete closed-loop** Outrun ecosystem, providing users with diverse DeFi and Web3 experiences.
+These products are not independent of each other, they complement and closely intertwine in functionality, linking **yield tokenization**, **liquid staking derivatives**, **decentralized exchanges**, **next-generation token financing paradigm** and **Memecoin × DeFi × DAO**. Through their design and **interoperability**, they construct a **complete closed-loop** Outrun ecosystem, providing users with diverse DeFi and Web3 experiences.
