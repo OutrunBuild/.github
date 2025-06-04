@@ -4,7 +4,7 @@ Outrun is committed to becoming a pioneer in the next generation of DeFi and Web
 
 **Detailed documentation**: https://outrun.gitbook.io/doc  
 **MVP**: https://ontrun-frontend-09.vercel.app/  
-**Prod-UI**: https://ui.outrun.build/  
+**Prod-UI(Under Development)**: https://ui.outrun.build/  
 
 ## OutStake 
 **OutStake** is a protocol entirely built around **yield-bearing tokens**, introducing the first **non-USD stablecoin model** tied to **yields rates**. Compared to other yield token protocols in the market, such as **Pendle**, OutStake offers **greater flexibility, enhanced composability**, and provides **higher returns along with multiple sources of income**. The assets supported by OutStake form the foundational support for the Outrun ecosystem, providing a stable base for the entire system. Specifically, OutStake operates as follows:
