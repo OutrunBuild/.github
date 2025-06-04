@@ -2,9 +2,9 @@
 
 Outrun is committed to becoming a pioneer in the next generation of DeFi and Web3 industries. **Through innovative yield tokenization, fair launch models, and sustainable Memecoin development, it aims to unlock higher, more flexible, and safer DeFi yields and Memecoin participation opportunities for users**. The Outrun ecosystem currently consists of four major modules: OutStake, OutSwap, FFLaunch, and Memeverse, covering **yield tokenization**, **liquid staking derivatives**, **RWAfi**, **decentralized exchanges**, **next-generation token financing paradigms**, and **the integration of Memecoin × DeFi × DAO‌**.
 
-**Detailed documentation**: https://outrun.gitbook.io/doc
-**MVP**: https://ontrun-frontend-09.vercel.app/
-**Prod-UI**: https://ui.outrun.build/
+**Detailed documentation**: https://outrun.gitbook.io/doc  
+**MVP**: https://ontrun-frontend-09.vercel.app/  
+**Prod-UI**: https://ui.outrun.build/  
 
 ## OutStake 
 **OutStake** is a protocol entirely built around **yield-bearing tokens**, introducing the first **non-USD stablecoin model** tied to **yields rates**. Compared to other yield token protocols in the market, such as **Pendle**, OutStake offers **greater flexibility, enhanced composability**, and provides **higher returns along with multiple sources of income**. The assets supported by OutStake form the foundational support for the Outrun ecosystem, providing a stable base for the entire system. Specifically, OutStake operates as follows:
