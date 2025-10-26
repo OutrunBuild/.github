@@ -40,17 +40,15 @@ Let's take a look at the **module architecture diagram** of the Outrun ecosystem
 
 # Business Model
 
-OutStake:
+**OutStake**:
 
 <img width="1589" height="870" alt="ms_outstake" src="https://github.com/user-attachments/assets/24f7c0b9-c792-450e-ad14-3418dab01e62" />
 
-
-FFLaunch / Memeverse:
+**FFLaunch / Memeverse**:
 
 <img width="1587" height="861" alt="ms_ffmm" src="https://github.com/user-attachments/assets/49a53ccf-29c6-4425-8473-593e76f58c69" />
 
-
-POL Lend:
+**POL Lend**:
 
 <img width="1593" height="772" alt="ms_pl" src="https://github.com/user-attachments/assets/f7b01b88-e558-40bc-b9b3-0b766a8445a3" />
 
